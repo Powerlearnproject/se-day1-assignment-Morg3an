@@ -43,6 +43,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 **Waterfall Methodology** vs **Agile Methodology**
 1. The Waterfall methododlogy is sequential and structured while the agile methodology is iterative and flexible.
 2. The phases in the waterfall methodology are defined upfront, i.e. phases do not overlap while in the agile methodology phases are continuous, with frequent iterations.
@@ -101,21 +102,22 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 **Some common challenges faced by Software Engineers and strategies to overcome them are as follows:**
+
 1. **Debugging Complex Issues**
-Challenge: Identifying the root cause of bugs can be time-consuming.
-Strategy: Use debugging tools, logging, and automated testing to catch issues early.
+- Challenge: Identifying the root cause of bugs can be time-consuming.
+- Strategy: Use debugging tools, logging, and automated testing to catch issues early.
 2. **Managing Project Deadlines**
-Challenge: Tight schedules and shifting priorities can lead to burnout.
-Strategy: Use Agile methodologies, prioritize tasks, and break work into manageable sprints.
+- Challenge: Tight schedules and shifting priorities can lead to burnout.
+- Strategy: Use Agile methodologies, prioritize tasks, and break work into manageable sprints.
 3. **Keeping Up with New Technologies**
-Challenge: Rapid advancements in programming languages, frameworks, and tools.
-Strategy: Continuous learning through online courses, reading documentation, and participating in coding communities.
+- Challenge: Rapid advancements in programming languages, frameworks, and tools.
+- Strategy: Continuous learning through online courses, reading documentation, and participating in coding communities.
 4. **Code Maintainability**
-Challenge: Poorly structured or undocumented code makes future modifications difficult.
-Strategy: Follow coding best practices, write clean code, and document codebase properly.
+- Challenge: Poorly structured or undocumented code makes future modifications difficult.
+- Strategy: Follow coding best practices, write clean code, and document codebase properly.
 5. **Collaboration & Communication Issues**
-Challenge: Miscommunication between team members can cause project delays.
-Strategy: Use project management tools (JIRA, Trello) and daily stand-up meetings for clarity.
+- Challenge: Miscommunication between team members can cause project delays.
+- Strategy: Use project management tools (JIRA, Trello) and daily stand-up meetings for clarity.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
